@@ -1,0 +1,134 @@
+{
+  "numTotalTestSuites": 1,
+  "numPassedTestSuites": 1,
+  "numFailedTestSuites": 0,
+  "numPendingTestSuites": 0,
+  "numTotalTests": 11,
+  "numPassedTests": 11,
+  "numFailedTests": 0,
+  "numPendingTests": 0,
+  "numTodoTests": 0,
+  "startTime": 1720881387539,
+  "success": true,
+  "testResults": [
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Başlangıç operations değeri + olarak doğru ayarlanmış",
+          "status": "passed",
+          "title": "Başlangıç operations değeri + olarak doğru ayarlanmış",
+          "duration": 23,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Başlangıç memory değeri 0 olarak doğru ayarlanmış",
+          "status": "passed",
+          "title": "Başlangıç memory değeri 0 olarak doğru ayarlanmış",
+          "duration": 7,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Başlangıç total değeri 0 olarak doğru ayarlanmış",
+          "status": "passed",
+          "title": "Başlangıç total değeri 0 olarak doğru ayarlanmış",
+          "duration": 5,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " 1, 2, 3 rakamına tıklanınca ekranda 123 sayısını gösteriyor",
+          "status": "passed",
+          "title": "1, 2, 3 rakamına tıklanınca ekranda 123 sayısını gösteriyor",
+          "duration": 114,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " CE ekranı sıfırlıyor",
+          "status": "passed",
+          "title": "CE ekranı sıfırlıyor",
+          "duration": 61,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " operatörlere tıklanınca ekranda 0 görünüyor.",
+          "status": "passed",
+          "title": "operatörlere tıklanınca ekranda 0 görünüyor.",
+          "duration": 241,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " operatörlere tıklanınca Operation: metni doğru işlemi gösteriyor.",
+          "status": "passed",
+          "title": "operatörlere tıklanınca Operation: metni doğru işlemi gösteriyor.",
+          "duration": 100,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Memory add(M+) butonu ekrandaki değeri hafızaya(memory) aktarıyor.",
+          "status": "passed",
+          "title": "Memory add(M+) butonu ekrandaki değeri hafızaya(memory) aktarıyor.",
+          "duration": 78,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Memory clear(MC) butonu memorydeki değeri sıfırlıyor.",
+          "status": "passed",
+          "title": "Memory clear(MC) butonu memorydeki değeri sıfırlıyor.",
+          "duration": 107,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Memory recall(MR) butonu memorydeki değeri ekrana getiriyor.",
+          "status": "passed",
+          "title": "Memory recall(MR) butonu memorydeki değeri ekrana getiriyor.",
+          "duration": 126,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " = ile işlemin sonucu ekrana geliyor. (23-15 = 8)",
+          "status": "passed",
+          "title": "= ile işlemin sonucu ekrana geliyor. (23-15 = 8)",
+          "duration": 177,
+          "failureMessages": []
+        }
+      ],
+      "startTime": 1720881391248,
+      "endTime": 1720881392287,
+      "status": "passed",
+      "message": "",
+      "name": "/home/projects/vitejs-vite-td265n/src/__tests__/index.test.jsx"
+    }
+  ]
+}
